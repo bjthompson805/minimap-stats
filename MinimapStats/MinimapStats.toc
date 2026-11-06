@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Minimap Stats
+## Notes: Shows FPS, latency and durability under the minimap coordinates.
+## Author: bjthompson805
+## Version: 1.0.0
+## SavedVariables: MinimapStatsDB
+## IconTexture: Interface\Icons\Trade_Engineering
+
+MinimapStats.lua
